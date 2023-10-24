@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487264035175",
+    "project_id": "mmatka-2c59d",
+    "storage_bucket": "mmatka-2c59d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487264035175:android:11e235538975750fd60fc2",
+        "android_client_info": {
+          "package_name": "com.m.matka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487264035175-pof6usf38suo5ktbf7v3lcb2n7ae1ujb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcVYkpoQJqDbDYpmiNUimwWF-cTbChB94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487264035175-pof6usf38suo5ktbf7v3lcb2n7ae1ujb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
